@@ -18,7 +18,7 @@ import {
   Layers,
   Move,
   X,
-  LucideIcon
+  type LucideIcon
 } from 'lucide-react';
 
 // Type definitions
